@@ -1,0 +1,36 @@
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\ReaderFile.exe
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_9\ReaderFile\obj\Debug\netcoreapp3.1\ReaderFile.csprojAssemblyReference.cache
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_9\ReaderFile\obj\Debug\netcoreapp3.1\ReaderFile.AssemblyInfoInputs.cache
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_9\ReaderFile\obj\Debug\netcoreapp3.1\ReaderFile.AssemblyInfo.cs
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\ReaderFile.deps.json
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\ReaderFile.runtimeconfig.json
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\ReaderFile.runtimeconfig.dev.json
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\ReaderFile.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\ReaderFile.pdb
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_9\ReaderFile\obj\Debug\netcoreapp3.1\ReaderFile.csproj.CopyComplete
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_9\ReaderFile\obj\Debug\netcoreapp3.1\ReaderFile.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_9\ReaderFile\obj\Debug\netcoreapp3.1\ReaderFile.pdb
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\ReaderFile.exe
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\ReaderFile.deps.json
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\ReaderFile.runtimeconfig.json
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\ReaderFile.runtimeconfig.dev.json
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\ReaderFile.dll
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\ReaderFile.pdb
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\obj\Debug\netcoreapp3.1\ReaderFile.csprojAssemblyReference.cache
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\obj\Debug\netcoreapp3.1\ReaderFile.AssemblyInfoInputs.cache
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\obj\Debug\netcoreapp3.1\ReaderFile.AssemblyInfo.cs
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\obj\Debug\netcoreapp3.1\ReaderFile.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\obj\Debug\netcoreapp3.1\ReaderFile.csproj.CopyComplete
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\obj\Debug\netcoreapp3.1\ReaderFile.dll
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\obj\Debug\netcoreapp3.1\ReaderFile.pdb
+C:\Users\bruno\Google Drive\Georgian College\First Term\Information_Encoding_Standards\C#\Week_9\ReaderFile\obj\Debug\netcoreapp3.1\ReaderFile.genruntimeconfig.cache

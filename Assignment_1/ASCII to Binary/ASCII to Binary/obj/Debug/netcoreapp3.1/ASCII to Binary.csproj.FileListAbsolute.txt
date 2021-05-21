@@ -1,0 +1,11 @@
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\ASCII to Binary\ASCII to Binary\bin\Debug\netcoreapp3.1\ASCII to Binary.exe
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\ASCII to Binary\ASCII to Binary\bin\Debug\netcoreapp3.1\ASCII to Binary.deps.json
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\ASCII to Binary\ASCII to Binary\bin\Debug\netcoreapp3.1\ASCII to Binary.runtimeconfig.json
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\ASCII to Binary\ASCII to Binary\bin\Debug\netcoreapp3.1\ASCII to Binary.runtimeconfig.dev.json
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\ASCII to Binary\ASCII to Binary\bin\Debug\netcoreapp3.1\ASCII to Binary.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\ASCII to Binary\ASCII to Binary\bin\Debug\netcoreapp3.1\ASCII to Binary.pdb
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\ASCII to Binary\ASCII to Binary\obj\Debug\netcoreapp3.1\ASCII to Binary.csprojAssemblyReference.cache
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\ASCII to Binary\ASCII to Binary\obj\Debug\netcoreapp3.1\ASCII to Binary.AssemblyInfoInputs.cache
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\ASCII to Binary\ASCII to Binary\obj\Debug\netcoreapp3.1\ASCII to Binary.AssemblyInfo.cs
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\ASCII to Binary\ASCII to Binary\obj\Debug\netcoreapp3.1\ASCII to Binary.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\ASCII to Binary\ASCII to Binary\obj\Debug\netcoreapp3.1\ASCII to Binary.pdb

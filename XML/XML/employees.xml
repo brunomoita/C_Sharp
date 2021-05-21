@@ -1,0 +1,42 @@
+﻿<employees Company="Georgian College">
+  <company>Georgian College</company>
+
+  <employee>
+
+    <firstName StringLength="100">
+      John
+    </firstName>
+
+    <lastName StringLength="50">Doe</lastName>
+
+  </employee>
+
+</employees>
+
+<!--<employees>
+
+  <human>
+
+    <firstName>John</firstName>
+
+    <lastName>Doe</lastName>
+
+  </human>
+
+  <employee>
+
+    <firstName>Anna</firstName>
+
+    <lastName>Smith</lastName>
+
+  </employee>
+
+  <employee>
+
+    <firstName>Peter</firstName>
+
+    <lastName>Jones</lastName>
+
+  </employee>
+
+</employees>-->

@@ -1,0 +1,17 @@
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\OfficeDocs\bin\Debug\netcoreapp3.1\OfficeDocs.exe
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\OfficeDocs\obj\Debug\netcoreapp3.1\OfficeDocs.csprojAssemblyReference.cache
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\OfficeDocs\obj\Debug\netcoreapp3.1\OfficeDocs.AssemblyInfoInputs.cache
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\OfficeDocs\obj\Debug\netcoreapp3.1\OfficeDocs.AssemblyInfo.cs
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\OfficeDocs\bin\Debug\netcoreapp3.1\OfficeDocs.deps.json
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\OfficeDocs\bin\Debug\netcoreapp3.1\OfficeDocs.runtimeconfig.json
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\OfficeDocs\bin\Debug\netcoreapp3.1\OfficeDocs.runtimeconfig.dev.json
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\OfficeDocs\bin\Debug\netcoreapp3.1\OfficeDocs.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\OfficeDocs\bin\Debug\netcoreapp3.1\OfficeDocs.pdb
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\OfficeDocs\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\OfficeDocs\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\OfficeDocs\obj\Debug\netcoreapp3.1\OfficeDocs.csproj.CopyComplete
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\OfficeDocs\obj\Debug\netcoreapp3.1\OfficeDocs.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\OfficeDocs\obj\Debug\netcoreapp3.1\OfficeDocs.pdb
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\OfficeDocs\obj\Debug\netcoreapp3.1\OfficeDocs.genruntimeconfig.cache
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\OfficeDocs\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\OfficeDocs\obj\Debug\netcoreapp3.1\OfficeDocs.csproj.CoreCompileInputs.cache

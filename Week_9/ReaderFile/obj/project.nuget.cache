@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fIH8XzIyezKYbQCQgIdxHrk61yk+dK+cV9xWZP8qCGE5jtf/Fp+rGxd7vyD+lwmX+abWXjJ228Wp408Cyg3EyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno\\Google Drive\\Georgian College\\First Term\\Information_Encoding_Standards\\C#\\Week_9\\ReaderFile\\ReaderFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

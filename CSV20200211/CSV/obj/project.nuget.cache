@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5UYPYeQKvpag8BSk1mNhz6Nvd00XZv/mKyIX15zMl2GDoM8inJ0UAK/iM7QONoNKCFKQddTnIvZ2kDuq03zqBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno\\Google Drive\\Georgian College\\Information_Encoding_Standards\\C#\\CSV20200211\\CSV\\CSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0-preview.1.20120.5\\microsoft.netcore.platforms.5.0.0-preview.1.20120.5.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0-preview.1.20120.5\\microsoft.win32.systemevents.5.0.0-preview.1.20120.5.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\system.drawing.common\\5.0.0-preview.1.20120.5\\system.drawing.common.5.0.0-preview.1.20120.5.nupkg.sha512"
+  ],
+  "logs": []
+}

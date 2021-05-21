@@ -1,0 +1,11 @@
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csprojAssemblyReference.cache
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Assignment_1\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb

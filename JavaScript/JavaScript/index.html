@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <script type="text/javascript">
+        //Real JSON Object, this object has the properties or firstName and lastName
+        var user = {"user":{"firstName":"John", "lastName":"Doe"}};
+
+        //Convert a string to a JSON object
+        var json_employees = '{"employees":[{"firstName":"John", "lastName":"Doe"},{"firstName":"Anna", "lastName":"Smith"},{"firstName":"Peter", "lastName":"Jones"}]}';
+
+        var employees = JSON.parse(json_employees);
+
+    </script>
+
+</head>
+
+<body>
+
+    <h1>JavaScript Tutorial Template</h1>
+
+    <h2>JSON Single Item</h2>
+
+    <p id="demo_output"></p>
+
+    <script type="text/javascript">
+
+        var output = user.user.firstName + " " + user.user.lastName;
+
+        document.getElementById("demo_output").innerHTML = output;
+
+    </script>
+
+    <h2>JSON Array</h2>
+
+    <p id="demo_array_output"></p>
+
+    <script type="text/javascript">
+
+        var outputarray = "";
+
+        for (i = 0; i < employees.employees.length; i++) {
+
+            var employee = employees.employees[i];
+
+            outputarray +=
+
+                employee.firstName + " " +
+
+                employee.lastName + "<br>";
+
+        }
+
+        document.getElementById("demo_array_output").innerHTML = outputarray;
+
+    </script>
+
+</body>
+
+</html>

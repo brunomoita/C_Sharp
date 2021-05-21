@@ -1,0 +1,3 @@
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_5\CSV\obj\Debug\netcoreapp3.1\CSV.csprojAssemblyReference.cache
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_5\CSV\obj\Debug\netcoreapp3.1\CSV.AssemblyInfoInputs.cache
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\Week_5\CSV\obj\Debug\netcoreapp3.1\CSV.AssemblyInfo.cs

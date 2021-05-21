@@ -1,0 +1,36 @@
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\FTPApp\bin\Debug\netcoreapp3.1\FTPApp.exe
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\FTPApp\bin\Debug\netcoreapp3.1\FTPApp.deps.json
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\FTPApp\bin\Debug\netcoreapp3.1\FTPApp.runtimeconfig.json
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\FTPApp\bin\Debug\netcoreapp3.1\FTPApp.runtimeconfig.dev.json
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\FTPApp\bin\Debug\netcoreapp3.1\FTPApp.dll
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\FTPApp\bin\Debug\netcoreapp3.1\FTPApp.pdb
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\FTPApp\obj\Debug\netcoreapp3.1\FTPApp.csprojAssemblyReference.cache
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\FTPApp\obj\Debug\netcoreapp3.1\FTPApp.AssemblyInfoInputs.cache
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\FTPApp\obj\Debug\netcoreapp3.1\FTPApp.AssemblyInfo.cs
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\FTPApp\obj\Debug\netcoreapp3.1\FTPApp.dll
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\FTPApp\obj\Debug\netcoreapp3.1\FTPApp.pdb
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\FTPApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\FTPApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\FTPApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\FTPApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\FTPApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\FTPApp\obj\Debug\netcoreapp3.1\FTPApp.csproj.CopyComplete
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\bin\Debug\netcoreapp3.1\FTPApp.exe
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\bin\Debug\netcoreapp3.1\FTPApp.deps.json
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\bin\Debug\netcoreapp3.1\FTPApp.runtimeconfig.json
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\bin\Debug\netcoreapp3.1\FTPApp.runtimeconfig.dev.json
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\bin\Debug\netcoreapp3.1\FTPApp.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\bin\Debug\netcoreapp3.1\FTPApp.pdb
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\obj\Debug\netcoreapp3.1\FTPApp.csprojAssemblyReference.cache
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\obj\Debug\netcoreapp3.1\FTPApp.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\obj\Debug\netcoreapp3.1\FTPApp.AssemblyInfoInputs.cache
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\obj\Debug\netcoreapp3.1\FTPApp.AssemblyInfo.cs
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\obj\Debug\netcoreapp3.1\FTPApp.csproj.CopyComplete
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\obj\Debug\netcoreapp3.1\FTPApp.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\obj\Debug\netcoreapp3.1\FTPApp.pdb
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\FTPApp\FTPApp\obj\Debug\netcoreapp3.1\FTPApp.genruntimeconfig.cache

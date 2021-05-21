@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <script type="text/javascript">
+
+        var output = "Hello! I am output from JavaScript code. We are in BDAT1001";
+
+    </script>
+
+</head>
+
+<body>
+
+    <h1>JavaScript Tutorial Template</h1>
+
+    <p id="demo_output"></p>
+
+    <script type="text/javascript">
+
+        document.getElementById("demo_output").innerHTML = output;
+
+        ////As a single entity Object
+        //var student = { "StudentId": "12345678", "FirstName": "Joe", "LastName": "Smith" };
+
+        //document.write("<p>" + student.StudentId + " " + student.FirstName + " " + student.LastName + "</p>");
+
+        ////As an array of Object
+        //var students = [
+        //    { "StudentId": "12345678", "FirstName": "Joe", "LastName": "Smith" },
+        //    { "StudentId": "12345679", "FirstName": "Jane", "LastName": "Doe" }
+        //];
+
+        //document.write("<p>" + students[1].StudentId + " " + students[1].FirstName + " " + students[1].LastName + "</p>");
+
+        //for (var i = 0; i < students.length; i++) {
+        //    document.write("<p>" + students[i].StudentId + " " + students[i].FirstName + " " + students[i].LastName + "</p>");
+        //}
+
+        //As a single entity Object
+        var studentJSONString = '{"StudentID" : "12345678", "FirstName" : "Joe", "LastName" : "Smith"}';
+
+        var student = JSON.parse(studentJSONString);
+
+        document.write("<p>" + student.StudentID + " " + student.FirstName + " " + student.LastName + "</p>");
+
+        //As an array of Object
+        var studentsJSONString = '[{ "StudentID" : "12345678", "FirstName" : "Joe", "LastName" : "Smith" },{ "StudentID" : "12345679", "FirstName" : "Jane", "LastName" : "Doe" }]';
+
+        var students = JSON.parse(studentsJSONString);
+
+        for (var i = 0; i < students.length; i++) {
+            document.write("<p>" + students[i].StudentID + " " + students[i].FirstName + " " + students[i].LastName + "</p>");
+        }
+
+    </script>
+
+</body>
+
+</html>
+

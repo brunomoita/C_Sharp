@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HFcWdcSP7N2Hpmvi0gBbZ6uccVkgvzBSS50lWuVY6aHv9rSepvuXLdmi4GQ1Tf1fUNJrnUlp+lrD0ADMR93csA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno\\Google Drive\\Georgian College\\Information_Encoding_Standards\\C#\\FTPApp\\FTPApp\\FTPApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

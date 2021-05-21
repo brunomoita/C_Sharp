@@ -1,0 +1,36 @@
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\CSV\bin\Debug\netcoreapp3.1\CSV.exe
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\CSV\bin\Debug\netcoreapp3.1\CSV.deps.json
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\CSV\bin\Debug\netcoreapp3.1\CSV.runtimeconfig.json
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\CSV\bin\Debug\netcoreapp3.1\CSV.runtimeconfig.dev.json
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\CSV\bin\Debug\netcoreapp3.1\CSV.dll
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\CSV\bin\Debug\netcoreapp3.1\CSV.pdb
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\CSV\obj\Debug\netcoreapp3.1\CSV.csprojAssemblyReference.cache
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\CSV\obj\Debug\netcoreapp3.1\CSV.AssemblyInfoInputs.cache
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\CSV\obj\Debug\netcoreapp3.1\CSV.AssemblyInfo.cs
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\CSV\obj\Debug\netcoreapp3.1\CSV.dll
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\CSV\obj\Debug\netcoreapp3.1\CSV.pdb
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\CSV\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\CSV\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\CSV\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\CSV\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\CSV\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cdyck1\OneDrive - Georgian College\BDAT1001\2020W\Applications\CSV\obj\Debug\netcoreapp3.1\CSV.csproj.CopyComplete
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\bin\Debug\netcoreapp3.1\CSV.exe
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\bin\Debug\netcoreapp3.1\CSV.deps.json
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\bin\Debug\netcoreapp3.1\CSV.runtimeconfig.json
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\bin\Debug\netcoreapp3.1\CSV.runtimeconfig.dev.json
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\bin\Debug\netcoreapp3.1\CSV.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\bin\Debug\netcoreapp3.1\CSV.pdb
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\obj\Debug\netcoreapp3.1\CSV.csprojAssemblyReference.cache
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\obj\Debug\netcoreapp3.1\CSV.AssemblyInfoInputs.cache
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\obj\Debug\netcoreapp3.1\CSV.AssemblyInfo.cs
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\obj\Debug\netcoreapp3.1\CSV.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\obj\Debug\netcoreapp3.1\CSV.pdb
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\obj\Debug\netcoreapp3.1\CSV.genruntimeconfig.cache
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\obj\Debug\netcoreapp3.1\CSV.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Google Drive\Georgian College\Information_Encoding_Standards\C#\CSV20200211\CSV\obj\Debug\netcoreapp3.1\CSV.csproj.CopyComplete
